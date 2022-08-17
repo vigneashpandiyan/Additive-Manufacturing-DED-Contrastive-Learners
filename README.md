@@ -2,7 +2,7 @@
 This repo hosts the codes that were used in journal work "In Situ Quality Monitoring in Direct Energy Deposition Process using Co-axial Process Zone Imaging and Deep Contrastive Learning".
 
 # Journal link
-https://www.sciencedirect.com/science/article/pii/S1526612522004996?via%3Dihub
+https://doi.org/10.1016/j.jmapro.2022.07.033
 
 ![DED Process](https://user-images.githubusercontent.com/39007209/185093514-34cce1b6-674a-4d39-b451-abe5450e9cce.gif)
 
